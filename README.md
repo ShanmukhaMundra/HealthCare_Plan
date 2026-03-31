@@ -21,19 +21,19 @@ A Streamlit web app that converts doctor-patient conversations into structured c
 
 ```
 HealthCare_Plan/
-├── main_app.py              # Streamlit entry point
+├── main_app.py           
 ├── requirements.txt
 ├── app/
-│   ├── config.py            # API key, OpenAI client, note templates
+│   ├── config.py            
 │   ├── services/
-│   │   ├── transcription.py # Whisper transcription
-│   │   ├── diarization.py   # Speaker labeling via GPT-4o-mini
-│   │   └── note_generator.py# Clinical note generation via GPT-4o-mini
+│   │   ├── transcription.py 
+│   │   ├── diarization.py   
+│   │   └── note_generator.py
 │   └── ui/
-│       ├── patient_info.py  # Patient/doctor info form
-│       ├── audio.py         # Audio recorder/uploader UI
-│       ├── clinical_note.py # Note display UI
-│       └── pdf_export.py    # PDF generation and download
+│       ├── patient_info.py  
+│       ├── audio.py        
+│       ├── clinical_note.py 
+│       └── pdf_export.py    
 └── tests/
     └── test_prompt.py
 ```
