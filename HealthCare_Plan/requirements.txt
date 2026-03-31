@@ -1,0 +1,9 @@
+streamlit
+openai
+audiorecorder
+tempfile
+reportlab
+base64
+datetime
+os
+dotenv
