@@ -68,19 +68,23 @@ streamlit run main_app.py
 
 **Audio upload with speaker diarization option**
 
-![Audio Upload](assets/screenshot1.png)
+<img width="1440" height="900" alt="Screenshot 2026-03-30 at 8 04 15 PM" src="https://github.com/user-attachments/assets/a8bc3d38-c987-4c6c-99c6-c2b9ff61e96f" />
+
 
 **Audio uploaded and ready to transcribe**
 
-![Ready to Transcribe](assets/screenshot2.png)
+<img width="1440" height="900" alt="Screenshot 2026-03-30 at 8 04 30 PM" src="https://github.com/user-attachments/assets/af83c3a2-39a5-46a2-b4b9-5ff8f3579468" />
+
 
 **SOAP note generated from transcript**
 
-![SOAP Note Generated](assets/screenshot3.png)
+<img width="1440" height="900" alt="Screenshot 2026-03-30 at 8 04 41 PM" src="https://github.com/user-attachments/assets/93990b7c-d9ba-4b3d-9e65-824f3d6fee9b" />
+
 
 **Full note with Assessment & Plan + PDF download**
 
-![Assessment Plan and PDF Export](assets/screenshot4.png)
+<img width="1440" height="900" alt="Screenshot 2026-03-30 at 8 04 49 PM" src="https://github.com/user-attachments/assets/bc92cb31-16f9-4a6a-a066-c404cd9853fe" />
+
 
 ## Requirements
 
