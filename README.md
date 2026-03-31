@@ -1,6 +1,10 @@
 # AI Medical Scribe
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://healthcareplan-b4ggvtycf2wxqx3jv9rxa2.streamlit.app/)
+
 A Streamlit web app that converts doctor-patient conversations into structured clinical notes using OpenAI Whisper for transcription and GPT-4o-mini for note generation.
+
+**[Try the live app →](https://healthcareplan-b4ggvtycf2wxqx3jv9rxa2.streamlit.app/)**
 
 ## Features
 
