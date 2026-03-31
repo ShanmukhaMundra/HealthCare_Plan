@@ -1,9 +1,5 @@
 streamlit
 openai
-audiorecorder
-tempfile
+streamlit-audiorecorder
 reportlab
-base64
-datetime
-os
-dotenv
+python-dotenv
