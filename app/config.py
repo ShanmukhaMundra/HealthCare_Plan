@@ -1,10 +1,14 @@
 import os
 import dotenv
+import streamlit as st
 from openai import OpenAI
 
 dotenv.load_dotenv()
 
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+try:
+    OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
+except (KeyError, FileNotFoundError):
+    OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 TEMPLATE_FORMATS = {
     "SOAP": """\
