@@ -1,5 +1,6 @@
 streamlit
 openai
 streamlit-audiorecorder
+pyaudioop
 reportlab
 python-dotenv
